@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+  color: black;
+  margin-top: 30px;
+  font-size: 70px;
+}
+
+button {
+  padding: 15px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-right: 20px;
+  width: 50%;
+  color: #fff;
+}
+
+.Box {
+  background-color: white;
+  box-shadow: 0px 0px 10px gray;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  margin-top: 180px;
+}
+
+.boxses {
+  width: 100%;
+  padding: 80px 50px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 10px;
+  gap: 20px;
+}
+
+.add {
+  background-color: green;
+}
+
+.reset {
+  background-color: red;
+}
+
+.menus {
+  background-color: blue;
+}
