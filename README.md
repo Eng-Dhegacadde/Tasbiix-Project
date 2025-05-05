@@ -8,6 +8,11 @@ This is a simple counter application built using **React JS**. It allows users t
 - ✅ Decrement the counter (won’t go below 0)
 - ✅ Reset the counter to 0
 
+
+## 📸 Screenshot
+
+![App Screenshot](src/assets/screenshot.png)
+
 ## How to Run
 
 1. Install dependencies:
