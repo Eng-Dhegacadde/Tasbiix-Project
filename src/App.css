@@ -33,6 +33,7 @@ button {
   margin: auto;
   text-align: center;
   margin-top: 180px;
+  border-radius: 10px;
 }
 
 .boxses {
